@@ -1,5 +1,0 @@
-; $Id
-name = BrowserID IDP
-description = Features Mozilla BrowserID Idp and communication with Node.js certifier
-package = BrowserID
-core = 7.x
